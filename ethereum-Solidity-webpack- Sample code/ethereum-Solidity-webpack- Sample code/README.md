@@ -61,4 +61,4 @@ Example Ethereum (Solidity) smart contract decentralized app with Webpack, demon
 
 Pull requests, bug reports are welcomed.
 
-This example dapp is put together by San G
+This example app is initaited by San G
