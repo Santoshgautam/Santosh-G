@@ -1,0 +1,22 @@
+{
+  "name": "Auth0-fronted-server",
+  "description": "Auth0-fronted-server",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --timeout 100000"
+  },
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "eth-crypto": "file:../../ethereum-crypto",
+    "express": "3.21.2",
+    "chai": "3.5.0",
+    "chai-http": "3.0.0",
+    "jsonwebtoken": "7.3.0",
+    "eth-registration-service": "file:../../ethereum-registration-service",
+    "q": "1.5.0",
+    "request": "2.81.0",
+    "proxyquire": "1.7.11",
+    "node-rsa": "^0.4.2"
+  }
+}
